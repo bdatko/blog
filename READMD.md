@@ -1,0 +1,2 @@
+## posts source and commit history are on GitHub
+This repo is inspired by [Jessica Stringham](https://github.com/jessstringham/blog) and her [blog post](https://jessicastringham.net/2016/12/12/github/) about a simple way to add history for your blog. Thank you, Jessica!
